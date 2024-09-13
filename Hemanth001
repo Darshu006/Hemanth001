@@ -1,0 +1,16 @@
+$mkdir git_stash
+$cd git_stash
+$git init
+$ls_a
+
+$touch.1.txt
+$vim.1.txt
+$git add.1.txt
+$git status
+$vim.1.txt
+$git add.1.txt
+$git commit_m"Few changes are made to s.txt"
+$git config__globaluser.Email"jayanthgowdap.09@gmail.com"
+$git config__globaluser.name"jayanthgowda"
+$touch2.txt
+$vim2.txt
